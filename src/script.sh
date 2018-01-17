@@ -1,2 +1,2 @@
-echo "Rahul is using git"
+echo "Veri is using git"
 echo "exit"
